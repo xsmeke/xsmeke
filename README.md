@@ -9,5 +9,7 @@
 
 <li align="left"> 👨‍💻 All of my projects are available at <a href="http://xsmeke.me">xsmeke.me</a></li>
 
+<li align="left"> 💻 I know JS, Python, C++, Java, R, C# </li>
+
 <li align="left"> 📫 Reach me at: <b>xsmeke@gmail.com</b></li>
 
