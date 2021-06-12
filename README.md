@@ -3,7 +3,7 @@
 <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="480px"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=xsmeke" alt="xsmeke" /> </p>
 
-<li align="left"> 🔭 I’m currently working as an intern at <a href="https://gatech.edu/">Geogia Tech</a></li>
+<li align="left"> 🔭 I’m currently working as an HCI Intern at <a href="https://gatech.edu/">Geogia Tech University</a></li>
 
 <li align="left"> 🏫 I’m currently studying at <a href="https://iitd.ac.in/">IIT Delhi</a></li>
 
